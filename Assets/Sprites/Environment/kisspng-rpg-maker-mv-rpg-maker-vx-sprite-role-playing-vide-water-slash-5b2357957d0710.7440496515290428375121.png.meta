@@ -1,0 +1,1032 @@
+fileFormatVersion: 2
+guid: c9c666e90abe043b19e6db084b1f1b98
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5170794766433862312
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_0
+  - first:
+      213: 8143271936966178188
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_1
+  - first:
+      213: 510810888154520442
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_2
+  - first:
+      213: -5819961665325968788
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_3
+  - first:
+      213: 4674996895635770742
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_4
+  - first:
+      213: -746321676711942739
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_5
+  - first:
+      213: 3724669914057035480
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_6
+  - first:
+      213: -8626392626451546549
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_7
+  - first:
+      213: -506709199051232348
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_8
+  - first:
+      213: -1424381804743312613
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_9
+  - first:
+      213: 3210541776980771527
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_10
+  - first:
+      213: -3640442021887156163
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_11
+  - first:
+      213: -4055672481638450727
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_12
+  - first:
+      213: 2408057658262468091
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_13
+  - first:
+      213: 3177056658911430507
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_14
+  - first:
+      213: -2346456293221555005
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_15
+  - first:
+      213: -1704200128150608880
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_16
+  - first:
+      213: 2009906164314528016
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_17
+  - first:
+      213: 3219995955327067047
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_18
+  - first:
+      213: 5771792564330129687
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_19
+  - first:
+      213: -2662413270524422798
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_20
+  - first:
+      213: 5487085912514374059
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_21
+  - first:
+      213: 4284392245146775693
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_22
+  - first:
+      213: -3108583208729980534
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_23
+  - first:
+      213: -7989112533635346077
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_24
+  - first:
+      213: 397916195000858430
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_25
+  - first:
+      213: -4082309977893252237
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_26
+  - first:
+      213: 2969306039131847948
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_27
+  - first:
+      213: 7402892080067211015
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_28
+  - first:
+      213: 2738204333291516950
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_29
+  - first:
+      213: 8512366984572514285
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_30
+  - first:
+      213: -1113617589775255463
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_31
+  - first:
+      213: 9193402562308773994
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_32
+  - first:
+      213: -4638511023060779280
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_33
+  - first:
+      213: -6792981139730151514
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_34
+  - first:
+      213: 4533833055983791259
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_35
+  - first:
+      213: -8511699378218740249
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_36
+  - first:
+      213: 8853846718994322109
+    second: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_0
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 861
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85db2445e85ad38b0800000000000000
+      internalID: -5170794766433862312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 857
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85b6488ea6b20170800000000000000
+      internalID: 8143271936966178188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_2
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 808
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b1adfdbc3c61700800000000000000
+      internalID: 510810888154520442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_3
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 853
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62dadb63b75b3fa0800000000000000
+      internalID: -5819961665325968788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_4
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 806
+        width: 111
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d8c6a48ece0e040800000000000000
+      internalID: 4674996895635770742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_5
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 839
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da52963a36884a5f0800000000000000
+      internalID: -746321676711942739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_6
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 811
+        width: 167
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de44fc7d8fa0b330800000000000000
+      internalID: 3724669914057035480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 825
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e7e4f5c95e84880800000000000000
+      internalID: -8626392626451546549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 810
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abe02a0baec7f8f0800000000000000
+      internalID: -506709199051232348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 823
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bbeb79b449b3ce0800000000000000
+      internalID: -1424381804743312613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_10
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 814
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c28d796cb22e8c20800000000000000
+      internalID: 3210541776980771527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_11
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 819
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30e20cd44d8a7dc0800000000000000
+      internalID: -3640442021887156163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_12
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 807
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9fc96ad5b57b7c0800000000000000
+      internalID: -4055672481638450727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 633
+        width: 105
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5b4678ea32b6120800000000000000
+      internalID: 2408057658262468091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_14
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 643
+        width: 88
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6784b1d23c271c20800000000000000
+      internalID: 3177056658911430507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_15
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 695
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4ac81fe66bf6fd0800000000000000
+      internalID: -2346456293221555005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_16
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 708
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014686f33077958e0800000000000000
+      internalID: -1704200128150608880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_17
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 601
+        width: 77
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019d5dbe10f94eb10800000000000000
+      internalID: 2009906164314528016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 672
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3e677d249bfac20800000000000000
+      internalID: 3219995955327067047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_19
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 667
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719632ac1c6891050800000000000000
+      internalID: 5771792564330129687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_20
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 689
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2751b1d8c353d0bd0800000000000000
+      internalID: -2662413270524422798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9287bc09b062c40800000000000000
+      internalID: 5487085912514374059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_22
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 662
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80796a1c08357b30800000000000000
+      internalID: 4284392245146775693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_23
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 652
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81d7e8aa081cd4d0800000000000000
+      internalID: -3108583208729980534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 648
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3615b029a78f02190800000000000000
+      internalID: -7989112533635346077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_25
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 622
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37b66dcbaea58500800000000000000
+      internalID: 397916195000858430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_26
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 627
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373d3a044b8b857c0800000000000000
+      internalID: -4082309977893252237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_27
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 409
+        width: 82
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d30eb4c18153920800000000000000
+      internalID: 2969306039131847948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_28
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 409
+        width: 90
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f65f6ef1b5cb660800000000000000
+      internalID: 7402892080067211015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_29
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 409
+        width: 84
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614b640655e000620800000000000000
+      internalID: 2738204333291516950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_30
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 409
+        width: 77
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def25390ca0022670800000000000000
+      internalID: 8512366984572514285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_31
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 409
+        width: 84
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958b1d9c3b2ab80f0800000000000000
+      internalID: -1113617589775255463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_32
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 217
+        width: 91
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a689493fbe6859f70800000000000000
+      internalID: 9193402562308773994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_33
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 217
+        width: 88
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe7ab7ecc2b0afb0800000000000000
+      internalID: -4638511023060779280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_34
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 217
+        width: 87
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7c478e4ab7ab1a0800000000000000
+      internalID: -6792981139730151514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_35
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 217
+        width: 75
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c66d4a4296bee30800000000000000
+      internalID: 4533833055983791259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_36
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 220
+        width: 111
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5db5e238e50e980800000000000000
+      internalID: -8511699378218740249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-rpg-maker-mv-rpg-maker-vx-sprite-role-playing-vide-water-slash-5b2357957d0710.7440496515290428375121_37
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 22
+        width: 169
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db21a656eae2fda70800000000000000
+      internalID: 8853846718994322109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
